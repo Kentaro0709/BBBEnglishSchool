@@ -405,7 +405,7 @@ forwards：アニメーション終了時の状態をそのまま維持 */
   }
 }
 #summary{
-  background: url("./img/bg.gif") repeat;
+  background: url("https://github.com/Kentaro0709/BBBEnglishSchool/blob/main/bg.gif?raw=true") repeat;
   animation: fall 10s infinite linear;
   padding: 60px 0;
   margin-bottom: 80px;
